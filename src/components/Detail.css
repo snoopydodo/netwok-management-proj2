@@ -1,0 +1,36 @@
+
+.detail {
+  height: 100%;
+  background-color: rgb(23, 21, 109);
+  content: "";
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  z-index: 1;
+}
+.detail .flex-topic {
+  width: 50%;
+  color: rgb(255, 255, 255);
+  font-size: 2em;
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  text-align: left;
+}
+.detail .flex-detail {
+  width: 100%;
+}
+
+.detail h3 {
+  width: 50%;
+  color: rgb(255, 255, 255);
+  text-indent: 50px;
+  font-size: 2em;
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  text-align: justify;
+}
+@media only screen and (max-width: 900px) {
+  .detail .flex-detail {
+    width: 100%;
+  }
+}

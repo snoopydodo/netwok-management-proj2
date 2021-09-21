@@ -1,0 +1,65 @@
+*{
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+}
+.all-func {
+  height: 100%;
+  background-color: rgb(95, 26, 112);
+  content: "";
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  z-index: 1;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  
+}
+.all-func .func-flex p{
+    text-align: center;
+
+}
+
+.all-func .arch-flex h4 {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  text-align: justify;
+  margin: 40px;
+}
+
+.all-func .pro-flex h4 {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  text-align: justify;
+  margin: 40px;
+}
+
+
+.all-func .func-flex {
+  width: 25%;
+}
+
+.all-func .arch-flex {
+  text-indent: 50px;
+  text-align: center;
+  width: 50%;
+}
+
+
+.all-func .pro-flex {
+  text-indent: 50px;
+  width: 25%;
+}
+.all-func .pro-flex h1{
+  text-align: center;
+}
+@media only screen and (max-width: 900px) {
+  .all-func {
+    width: 100%;
+  }
+}

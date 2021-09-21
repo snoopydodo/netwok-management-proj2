@@ -1,0 +1,31 @@
+.organize {
+  height: 100%;
+  background-color: rgb(247, 177, 47);
+  content: "";
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  z-index: 1;
+}
+
+.organize .org-img {
+  width: 50%;
+}
+
+.organize .org-img .image {
+  width: 100%;
+}
+
+.organize h3 {
+  width: 50%;
+  color: rgb(0, 0, 0);
+  font-size: 3.6em;
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+@media only screen and (max-width: 900px) {
+  .organize .org-img {
+    width: 100%;
+  }
+}

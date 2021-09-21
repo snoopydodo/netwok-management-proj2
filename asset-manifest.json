@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/network-management-proj2/static/css/main.e961f334.chunk.css",
+    "main.js": "/network-management-proj2/static/js/main.6a047eb6.chunk.js",
+    "main.js.map": "/network-management-proj2/static/js/main.6a047eb6.chunk.js.map",
+    "runtime-main.js": "/network-management-proj2/static/js/runtime-main.d61aa9da.js",
+    "runtime-main.js.map": "/network-management-proj2/static/js/runtime-main.d61aa9da.js.map",
+    "static/js/2.e21a03d0.chunk.js": "/network-management-proj2/static/js/2.e21a03d0.chunk.js",
+    "static/js/2.e21a03d0.chunk.js.map": "/network-management-proj2/static/js/2.e21a03d0.chunk.js.map",
+    "static/js/3.50f98a3b.chunk.js": "/network-management-proj2/static/js/3.50f98a3b.chunk.js",
+    "static/js/3.50f98a3b.chunk.js.map": "/network-management-proj2/static/js/3.50f98a3b.chunk.js.map",
+    "index.html": "/network-management-proj2/index.html",
+    "static/css/main.e961f334.chunk.css.map": "/network-management-proj2/static/css/main.e961f334.chunk.css.map",
+    "static/js/2.e21a03d0.chunk.js.LICENSE.txt": "/network-management-proj2/static/js/2.e21a03d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d61aa9da.js",
+    "static/js/2.e21a03d0.chunk.js",
+    "static/css/main.e961f334.chunk.css",
+    "static/js/main.6a047eb6.chunk.js"
+  ]
+}

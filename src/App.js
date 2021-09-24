@@ -15,7 +15,7 @@ function App() {
       <Func />
       <Slideshowing />
       <SlideshowResult />
-      <Footer/>
+      <Footer />
     </div>
   );
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/network-management-proj2/static/css/main.e961f334.chunk.css",
-    "main.js": "/network-management-proj2/static/js/main.6a047eb6.chunk.js",
-    "main.js.map": "/network-management-proj2/static/js/main.6a047eb6.chunk.js.map",
+    "main.js": "/network-management-proj2/static/js/main.c9748192.chunk.js",
+    "main.js.map": "/network-management-proj2/static/js/main.c9748192.chunk.js.map",
     "runtime-main.js": "/network-management-proj2/static/js/runtime-main.d61aa9da.js",
     "runtime-main.js.map": "/network-management-proj2/static/js/runtime-main.d61aa9da.js.map",
     "static/js/2.e21a03d0.chunk.js": "/network-management-proj2/static/js/2.e21a03d0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d61aa9da.js",
     "static/js/2.e21a03d0.chunk.js",
     "static/css/main.e961f334.chunk.css",
-    "static/js/main.6a047eb6.chunk.js"
+    "static/js/main.c9748192.chunk.js"
   ]
 }
